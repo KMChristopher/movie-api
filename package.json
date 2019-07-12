@@ -1,0 +1,22 @@
+{
+  "name": "movie_api",
+  "version": "1.0.0",
+  "description": "In the initial commit to this project, you have been provided with a CSV file that contains data on the American Film Institute's (AFI) Top 100 Movies. Your task is to create a database backed Express API for access the details of these films.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KMChristopher/movie_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KMChristopher/movie_api/issues"
+  },
+  "homepage": "https://github.com/KMChristopher/movie_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
